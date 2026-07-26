@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 Systems Engineering Student
 - 💻 Front-End Developer
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Front-End Development
 
@@ -33,7 +33,7 @@
 
 </p>
 
-### 📖 Currently Learning
+### Currently Learning
 
 <p>
 
@@ -66,7 +66,7 @@
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="left">
 
