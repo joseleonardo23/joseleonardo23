@@ -14,10 +14,10 @@
 ## About Me
 
 - 🎓 Systems Engineering Student
-- 💻 Front-End Developer
-- 🚀 Passionate about building responsive and interactive web applications
-- 📚 Always learning and improving my skills
-- 💼 Open to internship and junior opportunities
+- 💻 Front-End Developer focused on modern web technologies
+- ⚡ Building responsive, accessible and interactive websites
+- 🌱 Currently learning TypeScript, React and Tailwind CSS
+- 🚀 Looking for my first professional opportunity
 
 ---
 
