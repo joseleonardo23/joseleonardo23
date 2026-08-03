@@ -1,27 +1,27 @@
 <h1 align="center">
-  <b>Hi, I'm José Jiménez</b>
+  <b>Hola, soy José Jiménez</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
-  <strong>Front-End Developer</strong> • <strong>Systems Engineering Student</strong>
+  <strong>Desarrollador front-end</strong> • <strong>Estudiante de Ingeniería de Sistemas</strong>
 </p>
 
 ---
 
-## About Me
+## Sobre mí
 
-- 🎓 Systems Engineering Student
-- 💻 Front-End Developer focused on modern web technologies
-- ⚡ Building responsive, accessible and interactive websites
-- 🌱 Currently learning TypeScript, React and Tailwind CSS
-- 🚀 Looking for my first professional opportunity
+- 🎓 Estudiante de Ingeniería de Sistemas
+- 💻 Desarrollador front-end especializado en tecnologías web modernas.
+- ⚡ Creación de sitios web responsivos, accesibles e interactivos.
+- 🌱 Actualmente estoy aprendiendo TypeScript, React y Tailwind CSS.
+- 🚀 Buscando mi primera oportunidad profesional
 
 ---
 
-## Skills
+## Habilidades
 
-### Front-End Development
+### Desarrollo front-end
 
 <p>
 
@@ -31,7 +31,7 @@
 
 </p>
 
-### Currently Learning
+### Actualmente aprendiendo
 
 <p>
 
@@ -41,7 +41,7 @@
 
 </p>
 
-### Software & Tools
+### Software y herramientas
 
 <p>
 
@@ -65,7 +65,7 @@
 
 ---
 
-## Let's Connect
+## Conectemos
 
 <p align="left">
 
